@@ -1,0 +1,29 @@
+.success {
+    background-color: lightgreen;
+    color: darkgreen;
+    height: 100px;
+    width: 300px;
+    text-align: center;
+    border-style: solid;
+    border-color: darkgreen;
+}
+
+.error {
+    background-color: lightcoral;
+    color: darkred;
+    height: 100px;
+    width: 300px;
+    text-align: center;
+    border-style: solid;
+    border-color: darkred;
+}
+
+.warning {
+    background-color: lightyellow;
+    color: darkgoldenrod;
+    height: 100px;
+    width: 300px;
+    text-align: center;
+    border-style: solid;
+    border-color: darkgoldenrod;
+}
